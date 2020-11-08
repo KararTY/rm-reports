@@ -1,0 +1,25 @@
+{
+  "video": {
+    "id": "G0emHZ1u2SY",
+    "title": "30 mA usage on A1466 Macbook Air but not turning on after liquid damage"
+  },
+  "model": {
+    "id": "222222222222222",
+    "number": "1111111111111",
+    "year": "2020"
+  },
+  "logicBoardPartNumber": "XXXXXXXXXXXX",
+  "issues": [
+    {
+      "symptom": "PP3BUS G3H issue.",
+      "cause": "End-user spilling water.",
+      "solution": "Drill it.\nPut it on fire."
+    },
+    {
+      "symptom": "This is a test symptom.",
+      "cause": "This is a test cause.",
+      "solution": "This is a test solution."
+    }
+  ],
+  "comment": "Oh, this video is about...\n\n\n\n\n\n\nNeed to work on etc etc etc."
+}
