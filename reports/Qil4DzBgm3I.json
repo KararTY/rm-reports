@@ -1,0 +1,20 @@
+{
+  "video": {
+    "id": "Qil4DzBgm3I",
+    "title": "Macbook Air logic board repair PM_SLP_S4_L missing"
+  },
+  "model": {
+    "id": "MacBook Air",
+    "number": "A1466",
+    "year": "2012"
+  },
+  "logicBoardPartNumber": "820-00165",
+  "issues": [
+    {
+      "symptom": "No power",
+      "cause": "Corrosion under U1950",
+      "solution": "PM_SLP_S4_L missing, not pulsing"
+    }
+  ],
+  "comment": "9mA power draw in computer, 35mA power draw on bench, PPBUS_G3H, PPVRTC_G3H, PP5VS5 all present, PP5VS4 missing.\n\nReplaced U1950 -> fixed.\n\nInitially filled out by nunopiri on the docs.\n\nThis is used for testing."
+}
