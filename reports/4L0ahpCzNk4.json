@@ -9,12 +9,6 @@
     "year": "0"
   },
   "logicBoardPartNumber": "",
-  "issues": [
-    {
-      "symptom": "TEST 1",
-      "cause": "TEST 2",
-      "solution": "TEST 3"
-    }
-  ],
+  "issues": [],
   "comment": ""
 }
