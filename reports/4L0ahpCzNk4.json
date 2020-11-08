@@ -1,0 +1,20 @@
+{
+  "video": {
+    "id": "4L0ahpCzNk4",
+    "title": "A1466 Macbook Air drawing 66 mA, no green light on charger."
+  },
+  "model": {
+    "id": "",
+    "number": "",
+    "year": "0"
+  },
+  "logicBoardPartNumber": "",
+  "issues": [
+    {
+      "symptom": "TEST 1",
+      "cause": "TEST 2",
+      "solution": "TEST 3"
+    }
+  ],
+  "comment": ""
+}
