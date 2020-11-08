@@ -19,6 +19,11 @@
       "symptom": "This is a test symptom.",
       "cause": "This is a test cause.",
       "solution": "This is a test solution."
+    },
+    {
+      "symptom": "This is another symptom.",
+      "cause": "This is another cause.",
+      "solution": "This is another solution."
     }
   ],
   "comment": "Oh, this video is about...\n\n\n\n\n\n\nNeed to work on etc etc etc."
